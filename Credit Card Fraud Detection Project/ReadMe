@@ -1,0 +1,39 @@
+Major States and glimpse in project
+
+CRISP-DM
+1) Business Understanding
+	• Problem statement: Fraud transaction prediction
+	• Process Flow definition
+	• Domain concepts 
+		○ Behavioral - Transactional, Web activities
+		○ Customer Demographic - Age, Gender, Income, etc.
+		○ Psychographic - Opinions and sentiments
+		○ Geographic - Location
+2) Data Understanding
+	• Univariate distribution (Including target distribution) - Histogram
+	• Bivariate with target - Scatter plots
+3) Data Preparation
+	• Numerical - Correlation plot
+	• Categorical - Chi-square test of independence
+	• Down sampling
+	• Scaling
+	• Redundant variable removal
+	• PCA dimensionality reduction - Experimented and eliminated
+4) Modeling
+	• ML
+		○ Logistic
+		○ KNN
+		○ Naïve Bayes
+		○ Random Forest
+		○ XGBoost
+	• DL
+5) Evaluation
+	• Refining: Grid Search CV
+	• Metrics: 
+		○ Primary: Recall
+		○ Secondary: Precision, accuracy, F1 score
+	• Plots:
+		○ ROC curve
+6) Deployment
+	• Power BI Dashboard - for companies to leverage suitable model
+
