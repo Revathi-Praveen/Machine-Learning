@@ -2,7 +2,7 @@ Project Methodology:
 
 CRISP-DM
 1) Business Understanding
-	• Problem statement: Fraud transaction prediction
+	• Problem statement: Fraud transaction detection
 	• Process Flow definition
 	• Domain concepts 
 		○ Behavioral - Transactional, Web activities
